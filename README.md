@@ -17,7 +17,7 @@ In Earth_Model.txt you can define your Earth model, the first line should remain
 When the program is called from command line, you have to specify the harmonic degree-range you want to compute and "constant" or "linear" in order to choose between a constant piece-wise profile for rigidity, density and gravity in the mante+lith or a linear profile.
 
 Example: python ELLoveN.py 2 128 constant
-		 python ELLoveN.py 2 128 linear
+         python ELLoveN.py 2 128 linear
 
 The quantities involved in the calculation have been non-dimensionalized using scales for mass, time and length.
 
