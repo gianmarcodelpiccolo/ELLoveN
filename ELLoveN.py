@@ -177,7 +177,7 @@ for line in f.readlines():
 	gravity.append(float(fields[4]))
 f.close()
 
-# This parameter determines the profile of rigidity, density and gravity inside the mantle. Set it to False in order to have shells with uniform properties inside, set it to True in order to have a linear profile for the properties in the mantle. 
+# This parameter determines the profile of rigidity, density and gravity inside the mantle.
 linear = sys.argv[3]
 mu = np.zeros(steps_mantle)
 rho_m = np.zeros(steps_mantle)
