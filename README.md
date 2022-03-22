@@ -14,7 +14,7 @@ The output files, which contain the computed Love's numbers are h_n.dat, l_n.dat
 
 In Earth_Model.txt you can define your Earth model, the first line should remain unchanged, you can modify all the others (mantle and lithosphere), you can also add new ones.
 
-When the program is called from command line, you have to specify the harmonic degree-range you want to compute and "constant" or "linear" in order to choose between a constant piece-wise profile for rigidity, density and gravity in the mante+lith or a linear profile.
+When the program is called from command line you have to specify the harmonic degree-range you want to compute and "constant" or "linear" in order to choose between a constant piece-wise profile for rigidity, density and gravity in the mante+lith or a linear profile.
 
 Example: 
 
