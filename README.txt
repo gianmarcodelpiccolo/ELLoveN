@@ -3,11 +3,11 @@ Welcome to ELLoveN, an Elastic Load Love Numbers Calculator for SNREI incompress
 FILES:
 The code is located in ELLoveN.py.
 The Earth model is in Earth_Model.txt, where each line represents:
-  - bottom radius of the layer
-  - upper radius of the layer
-  - rigidity (divided by 10**11) of the layer
-  - density of the layer
-  - gravity of the layer
+  - bottom radius of the layer (km)
+  - upper radius of the layer (km)
+  - rigidity (divided by 10**11) of the layer (Pa)
+  - density of the layer (kg/m^3)
+  - gravity of the layer (m/s^2)
 The output files, which contain the computed Love's numbers are stored in h_n.dat, l_n.dat, k_n.dat.
 
 In Earth_Model.txt you can define your Earth model, the first line should remain unchanged, you can modify all the others (mantle and lithosphere), you can also add new ones.
