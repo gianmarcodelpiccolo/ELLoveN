@@ -19,6 +19,8 @@ Example:
 
          python ELLoveN.py 2 128 constant
 
+or
+
          python ELLoveN.py 2 128 linear
 
 The quantities involved in the calculation have been non-dimensionalized using scales for mass, time and length.
