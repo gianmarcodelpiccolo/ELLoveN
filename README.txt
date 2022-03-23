@@ -5,7 +5,7 @@ The code is located in ELLoveN.py.
 The Earth model is in Earth_Model.txt, where each line represents:
   - bottom radius of the layer (km)
   - upper radius of the layer (km)
-  - rigidity (divided by 10**11) of the layer (Pa)
+  - rigidity of the layer (100 GPa)
   - density of the layer (kg/m^3)
   - gravity of the layer (m/s^2)
 The output files, which contain the computed Love's numbers are h_n.dat, l_n.dat, k_n.dat.
