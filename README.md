@@ -31,3 +31,5 @@ In the current version of ELLoveN harmonic degree should remain below 1100 in or
 For everything you can write me: gianmarco.delpiccolo@studio.unibo.it
 
 Have fun and test your Earth models!
+
+![image](plot.png)
