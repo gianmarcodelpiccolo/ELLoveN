@@ -48,7 +48,7 @@ def RK2_core(y,steps,size,radius,dr,n,rho):
 			for k in range(size):
 				prod += prop.item(j,k)*y[(i)*size+(k)]
 			y_ct[(j)] = dr*prod/2 + y[(i)*size+(j)] 
-			gr = (4/3)*np.pi*G*rho_c*(radius[i]+dr_c/2)
+		gr = (4/3)*np.pi*G*rho_c*(radius[i]+dr_c/2)
 		prop = Cprop(radius[i]+dr/2,rho,gr,n)
 
 		for j in range(size):
