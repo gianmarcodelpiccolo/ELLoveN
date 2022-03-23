@@ -2,8 +2,8 @@
 Welcome to ELLoveN, an Elastic Load Love Numbers Calculator for SNREI incompressible Earth models.
 
 FILES:
-The code is located in ELLoveN.py.
-The Earth model is in Earth_Model.txt, where each line represents:
+The code is located in ELLoveN.py.  
+The Earth model is in Earth_Model.txt, where each line represents:  
   - bottom radius of the layer (km)
   - upper radius of the layer (km)
   - rigidity of the layer (100 GPa)
