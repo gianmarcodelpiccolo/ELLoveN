@@ -1,5 +1,6 @@
 # ELLoveN
 Welcome to ELLoveN, an Elastic Load Love Numbers Calculator for SNREI incompressible Earth models.
+For theoretical details see: Patrick WU and W. R. Peltier, "Viscous gravitational relaxation", 1982.
 
 The code is located in ELLoveN.py.  
 The Earth model is in Earth_Model.txt, where each line represents:  
