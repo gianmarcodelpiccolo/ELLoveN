@@ -28,7 +28,7 @@ The quantities involved in the calculation have been non-dimensionalized using s
 
 Runge-Kutta 2 method was used for the integration of the ODEs involved.
 
-In the current version of ELLoveN harmonic degree should remain below 1100 in order to avoid instabilities...
+In the current version of ELLoveN harmonic degree should remain below 1100 to avoid instabilities...
 
 For everything you can write me: gianmarco.delpiccolo@studio.unibo.it
 
